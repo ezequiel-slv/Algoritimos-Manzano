@@ -8,5 +8,5 @@ D = int(input("Digite o valor de D: "))
 P = (A - C)
 S = (B + D)
 
-print(f"O resultado do produto de A e C é: {P} e o resultado de ")
+print(f"O resultado do produto de A e C é: {P} e o resultado da soma de B e D é: {S}")
 
